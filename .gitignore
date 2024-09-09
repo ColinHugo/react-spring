@@ -1,0 +1,48 @@
+# Node.js / React
+recursos-humanos-react/node_modules
+recursos-humanos-react/build
+recursos-humanos-react/.env
+recursos-humanos-react/.next
+recursos-humanos-react/.cache
+recursos-humanos-react/dist
+recursos-humanos-react/.DS_Store
+
+# Logs
+recursos-humanos-react/npm-debug.log*
+recursos-humanos-react/yarn-debug.log*
+recursos-humanos-react/yarn-error.log*
+
+# Java / Spring Boot (Maven)
+recursos-humanos-spring/target/
+recursos-humanos-spring/.classpath
+recursos-humanos-spring/.project
+recursos-humanos-spring/.settings/
+recursos-humanos-spring/.factorypath
+
+# Maven
+recursos-humanos-spring/pom.xml.tag
+recursos-humanos-spring/pom.xml.releaseBackup
+recursos-humanos-spring/pom.xml.versionsBackup
+recursos-humanos-spring/log/
+recursos-humanos-spring/.mvn/timing.properties
+recursos-humanos-spring/.mvn/wrapper/maven-wrapper.jar
+recursos-humanos-spring/mvnw
+recursos-humanos-spring/mvnw.cmd
+recursos-humanos-spring/.mvn/wrapper/maven-wrapper.jar
+recursos-humanos-spring/.mvn/wrapper/maven-wrapper.properties
+
+# Compiled class files
+recursos-humanos-spring/**/*.class
+
+# IDEA / Eclipse / NetBeans IDEs
+recursos-humanos-react/.idea/
+recursos-humanos-react/.vscode/
+recursos-humanos-spring/.idea/
+recursos-humanos-spring/.vscode/
+*.iml
+*.iws
+*.ipr
+
+# OS-specific files
+.DS_Store
+Thumbs.db
